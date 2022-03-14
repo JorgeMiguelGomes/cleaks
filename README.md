@@ -2,7 +2,7 @@
 These files should be used for academic and research purposes only
 
 # Original merged json file from 
-## [**TSale**](https://github.com/tsale])
+## [**TSale**](https://github.com/tsale)
 
 # DATA CONTENTS
 
